@@ -16,8 +16,8 @@ Then use JavaScript to actually implement a tabbed interface for the view page. 
 
 Languages you will need to use:
 
-HTML
-CSS
-JavaScript
-Ruby
-SQL
+⋅⋅* HTML
+⋅⋅* CSS
+⋅⋅* JavaScript
+⋅⋅* Ruby
+⋅⋅* SQL
